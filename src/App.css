@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  font-family: Arial;
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.newer{
+  font-size: 500%;
+  font-weight: bold;
+  font-family: century gothic;
+  text-align: center;
+  color: darkred;
+}
+
+.wrap{
+  width:auto;
+  font-family: century gothic;
+}
+
+.wraps{
+  width: 700px;
+  opacity: 1;
+  background-color: red;
+  border-radius: 15px;
+}
+.wraps2{
+  font-size:90%;
+  padding-top: 20px;
+  padding-bottom: 15px;
+  color:lightcoral;
+  width:700px;
+  margin-left:0px;
+  background-color: darkred;
+  opacity: 0.9;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border-radius: 15px;
+  text-align: left;
+  text-shadow: 9px;
+padding-left: 75px;
+  
+  
+}
+.tabs1{
+  background:whitesmoke;
+  opacity: 1;
+  font-size:100%;
+  margin-top:20px;
+  padding-top: 5px;
+  color:green;
+  font-family: century gothic;
+  border-radius: 15px;
+  border: 0cm;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-collapse: collapse;
+  outline: 0;
+  background-color: lightblue;
+  width: 700px;
+  
+}
+
+
+
